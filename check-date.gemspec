@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Akira Ohnishi"]
   s.email       = ["s06206ao@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Check gem's date and warn if date is more than 1 years ago.}
+  s.description = %q{Check gem's date and warn if date is more than 1 years ago.}
 
   s.rubyforge_project = "check-date"
 
