@@ -1,5 +1,3 @@
-module Check
-  module Date
-    VERSION = "0.0.4"
-  end
+module CheckDate
+  VERSION = "0.0.5"
 end

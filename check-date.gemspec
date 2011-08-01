@@ -4,7 +4,7 @@ require "check-date/version"
 
 Gem::Specification.new do |s|
   s.name        = "check-date"
-  s.version     = Check::Date::VERSION
+  s.version     = CheckDate::VERSION
   s.authors     = ["Akira Ohnishi"]
   s.email       = ["s06206ao@gmail.com"]
   s.homepage    = ""
